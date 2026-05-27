@@ -1,4 +1,4 @@
-# Contributing
+﻿# Contributing
 
 Obrigado por considerar contribuir para o Sistema de cadastro! Aqui estão algumas orientações para facilitar sua contribuição.
 
@@ -6,21 +6,19 @@ Obrigado por considerar contribuir para o Sistema de cadastro! Aqui estão algum
 
 1. Faça um fork do repositório.
 2. Crie uma branch para sua mudança:
-   ```bash
+   `ash
    git checkout -b minha-melhoria
-   ```
+   `
 3. Faça alterações claras e testes locais.
 4. Adicione e commit suas alterações:
-   ```bash
+   `ash
    git add .
    git commit -m "Descreva sua contribuição"
-   ```
+   `
 5. Envie a branch para o seu fork:
-   ```bash
+   `ash
    git push origin minha-melhoria
-   ```
-
-```
+   `
 6. Abra um pull request no repositório original.
 
 ## O que incluir nas mudanças
@@ -28,14 +26,14 @@ Obrigado por considerar contribuir para o Sistema de cadastro! Aqui estão algum
 - Correções de bugs
 - Melhorias de usabilidade
 - Documentação mais clara
-- Exemplos ou descrições no `README.md`
+- Exemplos ou descrições no README.md
 
 ## Regras básicas
 
 - Mantenha o código limpo e legível.
 - Use nomes de variáveis descritivos.
 - Comente somente quando necessário.
-- Evite enviar arquivos compilados (`*.class`).
+- Evite enviar arquivos compilados (*.class) no commit.
 
 ## Relatar problemas
 
@@ -45,5 +43,8 @@ Se encontrar um bug ou comportamento inesperado, abra uma issue descrevendo:
 - O que aconteceu
 - O que você esperava que acontecesse
 
+## Código de Conduta
+
+Antes de contribuir, leia o CODE_OF_CONDUCT.md para entender as regras de convivência da comunidade.
+
 Obrigado por ajudar a tornar este projeto melhor!
-```

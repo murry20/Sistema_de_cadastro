@@ -1,0 +1,11 @@
+# Auto detect text files and normalize line endings
+* text=auto
+
+# Treat Java and Python files as text
+*.java text
+*.py text
+*.md text
+*.txt text
+
+# Preserve executable bit for scripts
+*.sh eol=lf
