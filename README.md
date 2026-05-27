@@ -42,6 +42,12 @@ Projeto em Java com um sistema de cadastro simples e um arquivo Python de revis�
 - O `README.md` explica rapidamente como compilar e executar o sistema.
 - O `LICENSE` define que o código está disponível sob a licença MIT.
 
-## 🔗 Repositório GitHub
+## � Documentação
+
+- `CONTRIBUTING.md` — orientações para contribuir com o projeto
+- `CHANGELOG.md` — histórico de mudanças
+- `docs/overview.md` — visão geral do projeto e uso
+
+## �🔗 Repositório GitHub
 
 `https://github.com/murry20/Sistema_de_cadastro.git`

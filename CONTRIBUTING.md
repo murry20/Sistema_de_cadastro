@@ -9,15 +9,12 @@ Obrigado por considerar contribuir para o Sistema de cadastro! Aqui estão algum
    ```bash
    git checkout -b minha-melhoria
    ```
-
-````
 3. Faça alterações claras e testes locais.
 4. Adicione e commit suas alterações:
    ```bash
-git add .
-git commit -m "Descreva sua contribuição"
-````
-
+   git add .
+   git commit -m "Descreva sua contribuição"
+   ```
 5. Envie a branch para o seu fork:
    ```bash
    git push origin minha-melhoria
