@@ -23,6 +23,15 @@ Projeto em Java com um sistema de cadastro simples e um arquivo Python de revis�
 
 > Se o projeto gerar arquivos `.class`, eles serão ignorados pelo Git graças ao `.gitignore`.
 
+## 💡 Exemplos
+
+- Para compilar e executar em sequência:
+  ```bash
+  javac Sistema_de_cadastro.java
+  java Sistema_de_cadastro
+  ```
+- Se o Java estiver instalado corretamente, o sistema deve iniciar o fluxo de cadastro direto no terminal.
+
 ## 🧪 Requisitos
 
 - Java JDK instalado (versão 8 ou superior)
